@@ -1,5 +1,5 @@
-# Bulk-Tiktoks-Downloader
-Script to bulk download tiktok videos with no watermark!
+# Download-Tiktok-Videos
+Script to bulk download tiktok videos from any user account with no watermark!
 
 The programm is written node.js and it uses the following libraries: 
 
