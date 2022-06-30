@@ -1,0 +1,12 @@
+{
+  "name": "Bulk-Tiktoks-Downloader-main",
+  "lockfileVersion": 2,
+  "requires": true,
+  "packages": {},
+  "dependencies": {
+    "extra": "^0.2.1",
+    "puppeteer": "^15.2.0",
+    "puppeteer-extra": "^3.3.0",
+    "puppeteer-extra-plugin-stealth": "^2.10.1"
+  }
+}
